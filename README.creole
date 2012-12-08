@@ -1,0 +1,3 @@
+= 4chan.org/g/ Daily Programming Challenges =
+
+All code licenced under LGPL.
